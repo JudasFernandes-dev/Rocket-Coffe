@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://iili.io/UseSol.png" alt="frame" border="0">
+  <img height="200" src="https://iili.io/UseSol.png" alt="frame" border="0"/>
 </div>
 
 ###
