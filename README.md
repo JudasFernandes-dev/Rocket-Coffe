@@ -14,7 +14,7 @@
 
 ###
 
-<p align="center">Link para acessar o projeto: https://judasfernandes-dev.github.io/Rocket-Coffe/<br><br>QR Code:</p>
+<p align="center">Link para acessar o projeto: https://rocketcoffer.netlify.app/<br><br>QR Code:</p>
 
 ###
 
