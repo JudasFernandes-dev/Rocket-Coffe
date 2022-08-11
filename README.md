@@ -14,12 +14,12 @@
 
 ###
 
-<p align="center">Link para acessar o projeto: https://paulohenryck.github.io/Cardapio-QRcode-HTML-CSS-Javascript/<br><br>QR Code:</p>
+<p align="center">Link para acessar o projeto: https://judasfernandes-dev.github.io/Rocket-Coffe/<br><br>QR Code:</p>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://iili.io/U4O2se.md.png"  />
+  <img height="200" src="https://iili.io/UseSol.png" alt="frame" border="0">
 </div>
 
 ###
@@ -29,7 +29,7 @@
 ###
 
 <div align="center">
-  <img height="600" src="https://i.imgur.com/qLzava8.png"  />
+  <img height="600" src="https://iili.io/UsePSe.jpg" alt="Sem título" border="0">
 </div>
 
 ###
